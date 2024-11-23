@@ -10,7 +10,7 @@ import time
 import subprocess
 
 # 设置要处理的文件夹路径
-folder_path = r'D:\程序文件\开放程序\数据文件'
+folder_path = r'D:\程序文件\mechanical-design-software\数据文件'
 
 # 获取文件夹下的所有 PDF 文件
 pdf_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.pdf')]
@@ -24,13 +24,13 @@ for pdf_file in pdf_files:
     subprocess.run(['start', full_file_path], shell=True)
 
     # 等待几秒钟，确保 PDF 文件已打开
-    time.sleep(3)
+    time.sleep(5)
 
     # 执行 Ctrl+Shift+S（另存为）命令
     pyautogui.hotkey('ctrl', 'shift', 's')
 
     # 等待另存为对话框出现
-    time.sleep(1)
+    time.sleep(3)
 
     # 执行 Enter 命令（这里假设另存为对话框已经聚焦并且默认路径是可接受的）
     pyautogui.press('enter')
@@ -38,7 +38,7 @@ for pdf_file in pdf_files:
     # 执行左移命令（这里假设你需要移动到某个特定的位置，比如文件名输入框）
     # 注意：左移的次数和速度可能需要根据你的具体情况进行调整
     pyautogui.press(['left'])
-    time.sleep(1)
+    time.sleep(3)
     # 再次执行 Enter 命令（这里假设你已经完成了所有必要的输入）
     pyautogui.press('enter')
 
