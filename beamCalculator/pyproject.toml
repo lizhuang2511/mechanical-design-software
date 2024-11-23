@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "beam"
+version = "0.1"
+description = "lizhuang"
+authors = ["Administrator <24601622654@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.group.dev.dependencies]
+anastruct = {path = "E:/env2/3.8pgk"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

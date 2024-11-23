@@ -1,0 +1,27 @@
+import numpy as np
+导程=12
+螺纹中径=420
+tan螺旋升角=导程/np.pi/螺纹中径
+螺旋升角=np.arctan(tan螺旋升角)
+螺纹升角度数=np.rad2deg(螺旋升角)
+螺旋副摩擦系数=0.08
+螺纹牙型角=30/2
+tan当量摩擦角=螺旋副摩擦系数/np.cos(np.deg2rad(螺纹牙型角))
+当量摩擦角=np.arctan(tan当量摩擦角)
+当量摩擦角度数=np.rad2deg(当量摩擦角)
+正向传动效率=np.tan(螺旋升角)/np.tan(螺旋升角+当量摩擦角)
+反向传动效率=np.tan(螺旋升角-当量摩擦角)/np.tan(螺旋升角)
+print(np.tan(螺旋升角-当量摩擦角))
+'''导程=12
+螺纹中径=44
+tan螺旋升角=导程/np.pi/螺纹中径
+螺旋升角=np.arctan(tan螺旋升角)
+螺纹升角度数=np.rad2deg(螺旋升角)
+螺旋副摩擦系数=0.08
+螺纹牙型角=30/2
+tan当量摩擦角=螺旋副摩擦系数/np.cos(np.deg2rad(螺纹牙型角))
+当量摩擦角=np.arctan(tan当量摩擦角)
+当量摩擦角度数=np.rad2deg(当量摩擦角)
+正向传动效率=np.tan(螺旋升角)/np.tan(螺旋升角+当量摩擦角)
+反向传动效率=np.tan(螺旋升角-当量摩擦角)/np.tan(螺旋升角)
+print(np.tan(螺旋升角-当量摩擦角))'''

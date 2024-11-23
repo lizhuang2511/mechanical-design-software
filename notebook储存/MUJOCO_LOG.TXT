@@ -1,0 +1,15 @@
+Thu Sep  5 13:44:28 2024
+WARNING: mju_openResource: unknown file 'simple.xml'
+
+Thu Sep  5 14:00:17 2024
+WARNING: mju_openResource: unknown file 'simple.xml'
+
+Fri Sep 13 09:32:00 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 2.8900.
+
+Fri Sep 13 09:36:02 2024
+WARNING: mju_openResource: unknown file '/simple(1).xml'
+
+Sat Oct 12 14:02:16 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 1.6190.
+

@@ -1,0 +1,11 @@
+fitz==0.0.1.dev2
+numpy==1.24.4
+numpy==1.24.3
+pandas==2.0.1
+pyface==7.4.4
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+reportlab==4.0.4
+traits==6.4.1
+traitsui==7.4.3
+xlwings==0.30.4
