@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pyvista
+traits
+traitsui

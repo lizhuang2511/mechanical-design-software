@@ -1,0 +1,5 @@
+numpy
+pandas
+pyface
+traits
+traitsui

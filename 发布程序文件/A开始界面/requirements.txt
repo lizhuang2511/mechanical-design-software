@@ -1,0 +1,13 @@
+future
+geatpy
+importlib_metadata
+matplotlib
+pandas
+pip
+pyface
+pyodbc
+pyslvs_ui
+reportlab
+sympy
+wxPython
+xlwings

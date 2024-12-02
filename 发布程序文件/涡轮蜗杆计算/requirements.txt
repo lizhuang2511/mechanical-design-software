@@ -1,0 +1,7 @@
+numpy
+pandas
+pyface
+reportlab
+traits
+traitsui
+xlwings

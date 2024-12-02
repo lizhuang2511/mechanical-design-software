@@ -1,0 +1,6 @@
+pandas
+pyface
+pyodbc
+reportlab
+traits
+traitsui

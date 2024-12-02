@@ -1,0 +1,8 @@
+numpy
+pandas
+pyface
+pyodbc
+pywin32
+reportlab
+traits
+traitsui

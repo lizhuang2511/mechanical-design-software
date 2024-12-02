@@ -1,0 +1,2 @@
+python STAR.pyc
+pause 

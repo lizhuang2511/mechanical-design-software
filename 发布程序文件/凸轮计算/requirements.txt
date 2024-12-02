@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+pywin32
+traits
+traitsui

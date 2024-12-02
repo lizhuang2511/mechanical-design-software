@@ -1,0 +1,9 @@
+packages_path = r'C:\Users\Administrator\AppData\Local\Programs\Python\Python38\Lib\site-packages'
+
+auto_imports = []
+crawl_path = os.path.abspath(os.path.join(packages_path, 'pyface', 'ui', 'qt4'))
+for file in os.listdir(crawl_path):
+    file_path = os.path.join(crawl_path, file)
+    if file not in {'__pycache__', '__init__.py'} and (
+            os.path.isdir(file_path) or (os.path.isfile(file_path) and file_path.endswith('.py'))):
+        auto_imports.append('pyface.ui.qt4.%s' % file.replace('.py', ''))

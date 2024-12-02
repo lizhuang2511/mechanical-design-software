@@ -1,0 +1,9 @@
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "python.testing.pytestArgs": [
+        "A开始界面"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+}
