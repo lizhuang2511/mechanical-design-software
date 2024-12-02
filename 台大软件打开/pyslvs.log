@@ -1,9 +1,0 @@
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: Pyslvs 22.04.0
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: OS Type: Windows 10 [AMD64]
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: Python Version: 3.8.10 (final)
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: Python Compiler: MSC v.1928 64 bit (AMD64)
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: Qt: PyQt5 5.15.9
-[2023-12-11 15:24:27,662] [sign_in_logger]:INFO: -------
-[2023-12-11 15:24:29,473] [main]:INFO: Startup with: 1.64s
-[2023-12-11 15:24:29,473] [console_connect]:INFO: Connect to GUI console.
-[2023-12-11 15:24:29,473] [console_connect]:INFO: Connect to GUI console.

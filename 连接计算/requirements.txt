@@ -1,3 +1,0 @@
-pandas==1.4.2
-traits==6.4.1
-traitsui==7.4.2

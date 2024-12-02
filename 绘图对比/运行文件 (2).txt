@@ -1,3 +1,0 @@
-cd ../python/
-python ../绘图对比/绘图对比界面.py
-exit

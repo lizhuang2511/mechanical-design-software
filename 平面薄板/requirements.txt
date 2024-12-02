@@ -1,5 +1,0 @@
-matplotlib==3.7.3
-numpy==1.24.4
-pyvista==0.39.0
-traits==6.4.3
-traitsui==7.4.3

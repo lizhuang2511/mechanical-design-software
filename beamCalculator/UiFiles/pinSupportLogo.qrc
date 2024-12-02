@@ -1,5 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>PinnedSupport.png</file>
-  </qresource>
-</RCC>

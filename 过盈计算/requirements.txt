@@ -1,2 +1,0 @@
-traits==6.4.3
-traitsui==7.4.3

@@ -1,3 +1,0 @@
-cd ../python/
-python ../主界面/主界面.py
-exit
