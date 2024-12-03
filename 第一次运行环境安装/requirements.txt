@@ -1,9 +1,9 @@
+notebook
 PyMuPDF
 future
 geatpy
 importlib_metadata
-ipywidgets==7.7
-notebook==6.0.3
+ipywidgets
 matplotlib
 numpy
 openpyxl
