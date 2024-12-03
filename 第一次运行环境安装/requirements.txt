@@ -9,7 +9,6 @@ numpy
 openpyxl
 pandas
 pip
-pipreqs
 pyface
 pyodbc
 pyslvs_ui
