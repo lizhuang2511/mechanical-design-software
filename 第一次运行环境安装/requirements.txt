@@ -13,7 +13,6 @@ pyface
 pyodbc
 pyslvs_ui
 python_minifier
-pyvista
 pywin32
 reportlab
 sviewgui
