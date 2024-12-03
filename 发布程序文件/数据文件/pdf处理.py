@@ -10,7 +10,7 @@ import time
 import subprocess
 
 # 设置要处理的文件夹路径
-folder_path = './'
+folder_path = r'./'
 
 # 获取文件夹下的所有 PDF 文件
 pdf_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.pdf')]
