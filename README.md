@@ -10,6 +10,10 @@ b站地址：
 
 https://link.zhihu.com/?target=https%3A//space.bilibili.com/32426006
 
+飞书：
+
+https://hvbrtric7aa.feishu.cn/wiki/GITNwzAh8i1xApkylqzc9mF7ncf?from=from_copylink
+
 知乎说明
 
 https://zhuanlan.zhihu.com/p/692334631?utm_psn=1786803980288000000
