@@ -5,6 +5,9 @@
 螺栓，皮带，多连杆，涡轮蜗杆，凸轮等等计算
 
 安装EXE版本：
+安装版链接https://pan.baidu.com/s/1UYPCEFpplce3vRAes8o8DA 
+提取码:8ahc
+注意安装不要安装到中文路径
 
 
 ![输入图片说明](https://pica.zhimg.com/80/v2-a551b3cb8b9052fd214ba659749a9153_720w.webp?source=d16d100b)
