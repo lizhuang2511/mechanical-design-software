@@ -9,7 +9,6 @@
 提取码:8ahc
 注意安装不要安装到中文路径
 
-
 ![输入图片说明](https://pica.zhimg.com/80/v2-a551b3cb8b9052fd214ba659749a9153_720w.webp?source=d16d100b)
 
 b站地址：
@@ -20,19 +19,6 @@ https://link.zhihu.com/?target=https%3A//space.bilibili.com/32426006
 
 https://hvbrtric7aa.feishu.cn/wiki/GITNwzAh8i1xApkylqzc9mF7ncf?from=from_copylink
 
-知乎说明
-
-https://zhuanlan.zhihu.com/p/692334631?utm_psn=1786803980288000000
-
-参考图书和代码合集
-
-通过网盘分享的文件：参考图书资源
-链接: https://pan.baidu.com/s/1Zy5_bgSN-SexA-ao90dNPA 提取码: 6wgs 
---来自百度网盘超级会员v7的分享
-
-通过网盘分享的文件：参考程序集源码
-链接: https://pan.baidu.com/s/1HuR8WUt4FUhMUYMi_Lf_Kg 提取码: dtxg 
---来自百度网盘超级会员v7的分享
 
 如果要联系我请加入星球，或微信15736965216
 

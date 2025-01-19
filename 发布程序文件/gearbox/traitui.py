@@ -172,7 +172,7 @@ class 齿轮强度界面(HasTraits):
     硬度参考值小齿轮=Str()
     硬度参考值大齿轮 = Str()
     材料等级选择=Enum('ML','MQ','ME')
-    chsoseswbanben = Enum([2022,2023,2024])
+    chsoseswbanben = Enum([2019,2021,2022,2023,2024])
     def 查找应力值(self,name='ML',handness=52,type=11):
         nax1=str(name+'x1')
         nax2=str(name+'x2')

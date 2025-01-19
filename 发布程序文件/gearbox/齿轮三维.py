@@ -54,7 +54,7 @@ def opendoc(path=path1,D1Sketch1=0.0678,
             D1CirPattern1=13,
             D1Plane1=0.06898,
             D4Helix1=0.65676,
-            banben=2022):
+            banben=2021):
     # SolidWorks年份版本
     sldver = banben
     # 建立com连接,如只有一个版本,可以只写"SldWorks.Application"
