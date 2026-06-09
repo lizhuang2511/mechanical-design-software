@@ -1,8 +1,0 @@
-matplotlib
-numpy
-openpyxl
-pandas
-reportlab
-traits
-traitsui
-xlwings

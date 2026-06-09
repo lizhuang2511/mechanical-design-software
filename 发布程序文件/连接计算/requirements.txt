@@ -1,6 +1,0 @@
-numpy
-pandas
-pyface
-traits
-traitsui
-wxPython

@@ -1,6 +1,0 @@
-matplotlib
-numpy
-pandas
-sympy
-traits
-traitsui

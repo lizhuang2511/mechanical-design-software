@@ -1,3 +1,0 @@
-pipreqs
-PyAutoGUI
-python_minifier

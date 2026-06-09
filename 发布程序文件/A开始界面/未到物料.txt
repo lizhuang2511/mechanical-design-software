@@ -1,3 +1,0 @@
-CALL %UserProfile%\Anaconda3\Scripts\activate.bat %UserProfile%\Anaconda3
-python .\各项目未到物料.py
-pause
